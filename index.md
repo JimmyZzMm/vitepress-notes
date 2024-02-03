@@ -4,14 +4,14 @@ layout: home
 
 hero:
   name: "jimmy blog"
-  text: "A VitePress Site"
+  text: "面试资料库"
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始阅读
+      link: /url
     - theme: alt
-      text: API Examples
+      text: Examples
       link: /api-examples
 
 features:
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
