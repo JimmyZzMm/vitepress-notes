@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /url
+      link: /internet/url
     - theme: alt
       text: Examples
       link: /api-examples
