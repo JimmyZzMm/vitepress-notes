@@ -72,7 +72,8 @@ Thumbs.db
 
 # build assets
 /output
-/dist
+.vitepress/dist
+.vitepress/cache
 /dll
 /build-cache
 /build

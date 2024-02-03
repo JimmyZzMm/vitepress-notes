@@ -28,7 +28,7 @@ jobs:
 
       # 打包
       - name: 打包
-        run: npm run build
+        run: npm run docs:build
       # 上传到腾讯云
       - name: 发布到阿里云
         uses: easingthemes/ssh-deploy@main
@@ -38,7 +38,7 @@ jobs:
           # SCP参数
           ARGS: "-avzr --delete"
           # 源目录
-          SOURCE: "dist/"
+          SOURCE: ".vitepress/dist/"
           # 服务器ip
           REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
           # 用户
