@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "jimmy blog"
+  name: "jimmy's blog"
   text: "面试资料库"
-  tagline: My great project tagline
+  tagline: Better Late Than Never
+  # image:
+  #   src: /logo.webp
+  #   alt: logo
   actions:
     - theme: brand
       text: 开始阅读
@@ -15,10 +18,10 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 🥬 菜
+    details: 菜就多练
+  - title: 📖 输不起
+    details: 就别玩儿
+  - title: 🦀 以前是以前
+    details: 现在是现在
 ---
