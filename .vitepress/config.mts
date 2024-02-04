@@ -4,7 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "jimmy's blog",
   description: "A VitePress Site",
-  head: [["link", { rel: "shortcut icon", href: "../logo.png" }]],
+  head: [["link", { rel: "shortcut icon", href: "/logo.png" }]],
   themeConfig: {
     search: {
       provider: "local",
