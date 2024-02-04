@@ -6,9 +6,9 @@ hero:
   name: "jimmy's blog"
   text: "面试资料库"
   tagline: Better Late Than Never
-  # image:
-  #   src: /logo.webp
-  #   alt: logo
+  image:
+    src: /logo.png
+    alt: logo
   actions:
     - theme: brand
       text: 开始阅读
