@@ -1,8 +1,6 @@
 # Options请求
 
-![image.png](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/67cf1327ec8649ab94342441cf4295e4~tplv-k3u1fbpfcp-zoom-in-crop-mark:1512:0:0:0.awebp?)
-
-
+![67cf1327ec8649ab94342441cf4295e4~tplv-k3u1fbpfcp-zoom-in-crop-mark_1512_0_0_0](https://raw.githubusercontent.com/JimmyZzMm/article-pictures/main/typora/67cf1327ec8649ab94342441cf4295e4%7Etplv-k3u1fbpfcp-zoom-in-crop-mark_1512_0_0_0.webp)
 
 ## options触发条件
 

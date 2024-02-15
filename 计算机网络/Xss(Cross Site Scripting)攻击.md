@@ -99,4 +99,4 @@ DOM 中的内联事件监听器，如 `location`、`onclick`、`onerror`、`onlo
 - 验证码：防止脚本冒充用户提交危险操作。
   
 
-![Xss(Cross Site Scripting)](C:\Users\temp\Desktop\Xss(Cross Site Scripting).png)
+![Xss(Cross Site Scripting)](https://raw.githubusercontent.com/JimmyZzMm/article-pictures/main/typora/Xss(Cross Site Scripting).png)
