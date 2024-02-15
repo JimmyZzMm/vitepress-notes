@@ -1,5 +1,7 @@
 # Xss(Cross Site Scripting)
 
+![Xss攻击](https://raw.githubusercontent.com/JimmyZzMm/article-pictures/main/typora/Xss攻击.png)
+
 ## 什么是xss
 
 Cross-Site Scripting（跨站脚本攻击）简称 XSS，是一种代码注入攻击。攻击者通过在目标网站上注入恶意脚本，使之在用户的浏览器上运行。利用这些恶意脚本，攻击者可获取用户的敏感信息如 **Cookie**、SessionID 等，进而危害数据安全。
@@ -98,5 +100,3 @@ DOM 中的内联事件监听器，如 `location`、`onclick`、`onerror`、`onlo
 - HTTP-only Cookie: 禁止 JavaScript 读取某些敏感 Cookie，攻击者完成 XSS 注入后也无法窃取此 Cookie。
 - 验证码：防止脚本冒充用户提交危险操作。
   
-
-![Xss(Cross Site Scripting)](https://raw.githubusercontent.com/JimmyZzMm/article-pictures/main/typora/Xss(Cross Site Scripting).png)
