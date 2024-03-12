@@ -10,6 +10,9 @@ export default defineConfig({
     search: {
       provider: "local",
     },
+    footer: {
+      copyright: "Copyright © 2024-present Jimmy Li",
+    },
     lastUpdated: {
       text: "最后更新于",
       formatOptions: {

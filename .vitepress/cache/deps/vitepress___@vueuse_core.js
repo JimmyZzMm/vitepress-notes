@@ -271,7 +271,7 @@ import {
   watchTriggerable,
   watchWithFilter,
   whenever
-} from "./chunk-IM4JLXM5.js";
+} from "./chunk-XUOV4JEE.js";
 import "./chunk-I27O6UFQ.js";
 export {
   DefaultMagicKeysAliasMap,

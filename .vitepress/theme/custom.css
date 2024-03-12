@@ -12,3 +12,6 @@
   ); */
   --vp-home-hero-image-filter: blur(44px);
 }
+.medium-zoom-image {
+  z-index: 9999 !important;
+}
