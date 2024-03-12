@@ -13,6 +13,7 @@ const WHITE_LIST = [
   ".github",
   "public",
   ".git",
+  "项目",
   "README.md",
 ];
 
