@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "jimmy's blog"
-  text: "面试资料库"
+  text: "个人博客"
   tagline: Better Late Than Never
   image:
     src: /logo.png

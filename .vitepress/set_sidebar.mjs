@@ -16,7 +16,6 @@ const WHITE_LIST = [
   "项目",
   "README.md",
 ];
-
 // 判断是否是文件夹
 const isDirectory = (path) => fs.lstatSync(path).isDirectory();
 
